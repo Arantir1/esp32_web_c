@@ -16,3 +16,5 @@ https://dl.espressif.com/dl/package_esp32_index.json
 3. Select "ESP32 Dev Module" (for ESP32-WROOM-32D)
 4. Change "ssid" and "password" variables in code and press Upload
 5. Enjoy!
+
+![image](https://user-images.githubusercontent.com/25298523/172221860-90c26398-33b1-4013-ae0b-b4fccd8aa4e2.png)
