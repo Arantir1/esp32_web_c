@@ -17,4 +17,5 @@ https://dl.espressif.com/dl/package_esp32_index.json
 4. Change "ssid" and "password" variables in code and press Upload
 5. Enjoy!
 
-![image](https://user-images.githubusercontent.com/25298523/172221860-90c26398-33b1-4013-ae0b-b4fccd8aa4e2.png)
+![image](https://user-images.githubusercontent.com/25298523/172222053-d3e9a589-3eb0-4422-a3be-862a6988ada9.png)
+
